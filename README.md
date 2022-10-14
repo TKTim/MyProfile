@@ -20,11 +20,9 @@
   * [ORB-SLAM實作網址](https://github.com/TKTim/Ros_Melodic-With-ORB_SLAM2)
   * [建立YOLO環境實作網址](https://github.com/TKTim/NVidia-2080Ti-Cuda10.2-Cudnn8.0-Yolo-GPU-)
 
-看得很累嗎? 辛苦了，喝杯水~~
 
 ## 小專案篇
 
-每個都點點看，不吃虧的喔~~
 
 * [實作Kubernetes-in-CentOS7](https://github.com/TKTim/Kubernetes-in-CentOS7) 
 
@@ -54,7 +52,6 @@
 ## 演講篇
 
 * [IET PATW 2019 Taiwan 演講片段](https://www.youtube.com/watch?v=qzLP71cJNdA&ab_channel=%E9%87%8D%E6%96%B0%E5%8A%A0%E7%86%B1)
-
 
 * [課外影片製作 The influence of likes and dislikes on how you look at things.](https://www.youtube.com/watch?v=Tuw2dSRYUZ4&t=18s)
 
